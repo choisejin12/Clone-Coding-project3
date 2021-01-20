@@ -14,6 +14,9 @@
   background-image: url("intro.png");
   width: 100%;
   height: 718px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 h1{
@@ -207,6 +210,9 @@ h1{
   width: 100%;
   height: 418px;
   background-image: url(contact.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .main3>ul{
